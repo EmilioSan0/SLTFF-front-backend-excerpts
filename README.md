@@ -1,6 +1,6 @@
 # South Lake Tahoe Firefighter Foundation – Project Excerpts
 
-This repository highlights my contributions to the South Lake Tahoe Firefighter Foundation website, a year-long senior project my team and I completed at Sacramento State.
+This repository highlights my contributions to the South Lake Tahoe Firefighter Foundation website, a year-long senior project my team and I completed at Sacramento State. https://sltfirefoundation.org/ 
 
 ## Overview
 Our team of 8 built a full-stack web application for the SLTFF to share its mission, upcoming events, and community impact.  
